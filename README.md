@@ -6,7 +6,6 @@
 
   
 
-<a  href="">Website Link</a>
 
 <h2>Requirements:</h2>
 HTML<br/>
