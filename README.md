@@ -26,3 +26,8 @@ EJS <br />
 $ npm install
 $ node app.js
 </code></pre>
+
+# Images
+
+![image](imgs/ss1.jpg)
+![image](imgs/ss2.jpg)
