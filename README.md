@@ -31,5 +31,5 @@ $ node app.js
 # Images
 
 
-![image](imgs/ss1.jpg)
-![image](imgs/ss2.jpg)
+<img src="./imgs/ss1.jpg"/>
+<img src="./imgs/ss2.jpg"/>
