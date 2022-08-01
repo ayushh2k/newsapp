@@ -13,7 +13,7 @@ HTML<br/>
 CSS<br/>
 Node JS <br/>
 EJS <br />
-News api key from [newsapi](https://newsapi.org/).
+<a href = "https://newsapi.org/">News api key </a>
 
   
   
