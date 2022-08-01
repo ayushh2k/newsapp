@@ -30,6 +30,5 @@ $ node app.js
 
 # Images
 
-
-<img src="./imgs/ss1.jpg"/>
-<img src="./imgs/ss2.jpg"/>
+![image](https://cdn.discordapp.com/attachments/918503097997877289/1003716815920308375/ss1.jpg)
+![image](https://cdn.discordapp.com/attachments/918503097997877289/1003716850607198341/ss2.jpg)
